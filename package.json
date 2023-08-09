@@ -1,0 +1,35 @@
+{
+  "name": "DCON's Waypoint Computer",
+  "version": "0.13.37",
+  "description": "Completely not overpowered waypoint computer for DCS",
+  "icon": "icon.ico",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "Revolving DCON - @rdcn",
+  "license": "CC-BY-NC-SA",
+  "disabledVersions": {
+  	"0.1.1":"Security reasons."
+  },
+  "dependencies": {
+    "copy-dir": "^1.3.0",
+    "dcs-bios-api": "^0.0.10",
+    "electron-overlay-window": "^1.0.4",
+    "fetch-retry": "^5.0.6",
+    "formatcoords": "^1.1.3",
+    "glob": "^10.3.3",
+    "isomorphic-fetch": "^3.0.0",
+    "mapbox-gl": "^2.15.0",
+    "node-fetch": "^3.3.2",
+    "node-gyp-build": "^4.6.0",
+    "socket.io-client": "^4.7.1",
+    "uiohook-napi": "^1.5.1"
+  },
+  "devDependencies": {
+    "@electron/asar": "^3.2.4",
+    "archiver": "^5.3.1",
+    "electron": "^11.5.0"
+  }
+}
