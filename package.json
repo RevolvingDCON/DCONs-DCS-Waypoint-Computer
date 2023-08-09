@@ -10,6 +10,16 @@
   },
   "author": "Revolving DCON - @rdcn",
   "license": "CC-BY-NC-SA",
+  "popups":[
+  	{
+  		"enabled": 0,
+  		"conditions": "v:0.13.36|0.13.37",
+	  	"icon": "./icon.ico",
+	    "type": "error",
+	    "title": "Message of the day",
+	    "message": "Hello World!"
+  	}
+  ],
   "disabledVersions": {
   	"0.1.1":"Security reasons."
   },
