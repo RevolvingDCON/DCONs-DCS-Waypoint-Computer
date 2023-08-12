@@ -61,6 +61,7 @@ console.log('Build Started');
 		"/keycode_reference.lua",
 		"/README.md",
 		"/test.html",
+		"/social.png",
 		"node_modules/logplease/screenshot.png",
 		"node_modules/mapbox-gl/dist/mapbox-gl-dev.js",
 		"node_modules/mapbox-gl/dist/mapbox-gl-unminified.js",
