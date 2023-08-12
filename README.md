@@ -97,7 +97,7 @@ You can submit an issue in the [Issues tab](https://github.com/RevolvingDCON/DCO
 * Add drawing / planning tools to the radar with full networking support
 
 # Beta
-A beta version of this tool exists, if you want access to pre-release versions message me on discord: `Revolving DCON - @rdcn`
+A beta version of this tool exists, if you want access to pre-release versions message me on<br>Discord: `Revolving DCON - @rdcn`
 
 # Contributing
 Feel free to help out or add features via submitting pull requests, if the change is approved, your credit will be added to the info page as a contributor.
