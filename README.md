@@ -56,6 +56,8 @@ This will create `config.json` and `storage.json`
 `enter_depress_delay` - The time between the enter button delay. **Increase this if your FPS is low or you might run into errors**<br>
 `next_press_delay` - Time between button presses.<br>
 `overlay_enabled` - Debug option to disable the map overlay. **If you have a blackscreen in DCS, set this to `false`**<br>
+`position_update_rate` - How quickly do we fetch your position for updating. **If this value is too low you may experience performance issues**
+`radar_object_delay` - How quickly do radar targets update.
 
 **Note: You can change most of these to 0 if you're playing on a highend machine, no two setups are the same so best you figure out what works for you.**
 
