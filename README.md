@@ -31,7 +31,7 @@ Enter the name and password you want for your datalink in the respective fields,
 ### Joining a datalink
 Enter the name and password of the datalink and then press `Join Datalink`. This will connect you to the datalink where you can now see eachother and share waypoints.
 
-<img src="https://i.imgur.com/ZMro1t1.png" width="300"/> <img src="https://i.imgur.com/V3uCiSB.png" width="300"/> <img src="https://i.imgur.com/0nIQ1RB.png" width="300"/>
+<img src="https://i.imgur.com/ZMro1t1.png" width="270"/> <img src="https://i.imgur.com/V3uCiSB.png" width="270"/> <img src="https://i.imgur.com/0nIQ1RB.png" width="270"/>
 
 # Aircraft
 Supported:<br>
