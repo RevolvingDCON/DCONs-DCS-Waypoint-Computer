@@ -91,7 +91,7 @@ The project was in a stable state for over a year. I gave it to multiple members
 You can submit an issue in the [Issues tab](https://github.com/RevolvingDCON/DCONs-DCS-Waypoint-Computer/issues "Issues Tab") and I'll take a look, there's a lot of things that could go wrong.
 
 # Todo
-### The obvious
+### The future
 * Add full support for all aircraft. Most of them are in working condition but critical testing is still needed.
 * Add a full flight plan save system
 * Add drawing / planning tools to the radar with full networking support
