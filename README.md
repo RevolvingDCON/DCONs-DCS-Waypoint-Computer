@@ -1,4 +1,4 @@
-# DCONs-DCS-Waypoint-Computer
+# DCONs Waypoint Computer
 > **Disclaimer: I built this in early 2022 with no plans to release it, after leaving it on ice for over a year I've decided to make it public. The release of this software is in the same state as I left it in as of May 2022. (with some fixes for release) I am now going continue public development of the tool until it is in a complete state.**
 
 A simple, clean and easy to use interface for transfering waypoints to aircraft in DCS through a custom radar or the ingame map. Also share waypoints with your friends in real time.
