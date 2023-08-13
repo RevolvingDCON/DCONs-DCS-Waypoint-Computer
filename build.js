@@ -62,6 +62,7 @@ console.log('Build Started');
 		"/README.md",
 		"/test.html",
 		"/social.png",
+		"/social.psd",
 		"node_modules/logplease/screenshot.png",
 		"node_modules/mapbox-gl/dist/mapbox-gl-dev.js",
 		"node_modules/mapbox-gl/dist/mapbox-gl-unminified.js",
